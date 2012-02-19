@@ -1,0 +1,5 @@
+name: WalkieTalkies
+main: com.github.WayGroovy.WalkieTalkies
+version: 0.1
+author: WayGroovy
+description: Redstone Powered Walkie Talkies local chat based on bChatManager

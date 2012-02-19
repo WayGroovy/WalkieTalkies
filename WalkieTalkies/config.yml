@@ -1,0 +1,7 @@
+chat-range: 200.0
+radio-range: 1000.0
+display-name-format: '%player'
+message-format: '<%player> : &f%message'
+local-message-format: '<%player> : &f%message'
+radio-message-format: '<%player> : &e%message'
+ranged-mode: true
