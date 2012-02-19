@@ -110,9 +110,5 @@ public class WTChatListener implements Listener {
         		player.getInventory().removeItem(new ItemStack(Material.REDSTONE,1));
         	}
         }
-        
-        if (player.getItemInHand().getType() == Material.COMPASS) {
-        	
-        }
     }
 }
